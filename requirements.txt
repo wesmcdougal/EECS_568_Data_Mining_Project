@@ -1,0 +1,6 @@
+# EECS 568 course project: tested on Python 3.11 (macOS, Linux, Windows)
+pyhealth==1.1.6
+torch>=2.2
+numpy<2
+pandas<2
+setuptools<81
